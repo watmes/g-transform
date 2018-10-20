@@ -7,7 +7,7 @@ _____ 
 ## Dependancies :
 1. Python2
 2. [OpenCV](https://www.opencv.com)
-_____ 
+
 ## Usage
 Using default name for input image (raw.jpg) : 
 `python controller.py`
